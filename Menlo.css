@@ -2,5 +2,5 @@
   font-family: 'Menlo for Powerline';
   font-style: normal;
   font-weight: 400;
-  src: local('Menlo for Powerline), local('Menlo for Powerline'), url(http://rawgit.com/sh3lld00m/powerline-web-fonts/master/Menlo%20for%20Powerline.woff2) format('woff2');
+  src: local('Menlo for Powerline'), local('Menlo for Powerline'), url(http://rawgit.com/sh3lld00m/powerline-web-fonts/master/Menlo%20for%20Powerline.woff2) format('woff2');
 }
